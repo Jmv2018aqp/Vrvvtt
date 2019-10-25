@@ -1,0 +1,28 @@
+
+#EXTINF:-1 tvg-logo="https://www.miambiente.com.mx/wp-content/uploads/ingenio-tv.jpg" group-title="Latinos TV",Ingenio TV
+https://srvstream01.televisioneducativa.gob.mx/hls/ingeniotv.m3u8
+
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/r_640_360/medias/nmedia/18/79/30/16/19496688.jpg" group-title="Infantil",Canal Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71cev2n3enL._AC_SL1000_.jpg" group-title="Cine",Alita: Ángel de Combate Full HD (2019)
+http://mundo2tv.xyz:25461/movie/vicor2LL/pJVGEBnY/5.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzE2MzEzNDc5M15BMl5BanBnXkFtZTcwMzYxOTA3MQ@@._V1_.jpg" group-title="Cine",Zohan 2008
+http://cdnvod.setv.ca/hls/You_Dont_Mess_with_the_Zohan_2008.mp4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzE2MzEzNDc5M15BMl5BanBnXkFtZTcwMzYxOTA3MQ@@._V1_.jpg" group-title="Latinos TV",Canal 8
+http://138.117.4.70:8079/streams/d/Canal-8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzE2MzEzNDc5M15BMl5BanBnXkFtZTcwMzYxOTA3MQ@@._V1_.jpg" group-title="Canal TV",Canal 10
+http://138.117.4.70:8079/streams/d/Canal-10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzE2MzEzNDc5M15BMl5BanBnXkFtZTcwMzYxOTA3MQ@@._V1_.jpg" group-title="Cine",Canal 11
+http://138.117.4.70:8079/streams/d/Canal-11/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/pataclaun_tv_series-118340938-mmed.jpg" group-title="Canal Tv",Pataclaun
+https://www.youtube.com/watch?v=AVKRNxOk9NM
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/den_of_thieves-258335369-large.jpg" group-title="Canal Tv",Peliculas latino
+https://www.youtube.com/watch?v=Guq7paSwSy4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/alpha-948694302-large.jpg" group-title="Canal Tv",Peliculas latino
+https://www.youtube.com/watch?v=vEzpe49_uIE
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/pataclaun_tv_series-118340938-mmed.jpg" group-title="Canal Tv",Pataclaun extranjeros
+https://www.youtube.com/watch?v=awEoHjkjUiI

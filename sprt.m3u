@@ -1,29 +1,21 @@
 #EXTINF:-1,Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
-#EXTINF:-1,Pinguino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 #EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,Abu Dhabi Sports
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
 #EXTINF:-1,Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
 #EXTINF:-1,HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,Travel HD
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:-1,NASA Space Station 1
-http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,NASA Space Station 2
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Pinguino TV
+http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
 #EXTINF:-1,DW Latino
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,CGTN 1
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1,Tv Senado 1 HD
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
-#EXTINF:-1,Tv Senado 2 SD
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
 #EXTINF:-1,Canal 26 1
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,Canal 26 2
@@ -35,9 +27,7 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 #EXTINF:-1,Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,Willax
-http://m.mediastream.pe/vv_willax/livestream/.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Willax
-http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?iptvgratis?chile.m3u8
+https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmkPce-0GmFdXR0nqliMU0vk)/dm/3/x7x4dgx/s/live-2.m3u8
 #EXTINF:-1,Canal BHtv
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,Tv Peru

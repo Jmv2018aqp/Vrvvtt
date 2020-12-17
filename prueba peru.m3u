@@ -1,67 +1,48 @@
-#EXTINF:-1,Noticias 16 PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/21125.m3u8
-#EXTINF:-1,Antares TV PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/21122.m3u8
-#EXTINF:-1,ATV HD PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/35481.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gol TV " tvg-logo="https://cdn.mitvstatic.com/channels/pe_gol-tv_m.png" group-title="Deporte",Gol TV
-http://iptvworld.nl:2095/live/live/aQgdkEq2Yu/deszsryVjZ/21135.m3u8
-#EXTINF:-1,Gol TV FHD PER
-http://iptvworld.nl:2095/live/live/aQgdkEq2Yu/deszsryVjZ/21135.m3u8
-#EXTINF:-1,CTC TV Cusco HD PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/21116.m3u8
-#EXTINF:-1,Canal N HD PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/35480.m3u8
-#EXTINF:-1,Nex TV PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/35475.m3u8
-#EXTINF:-1,CTC TV HD PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/21117.m3u8
-#EXTINF:-1,Central TV PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/21121.m3u8
-#EXTINF:-1,Ipe 16 PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/21119.m3u8
-#EXTINF:-1,Bethel Plus TV PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/21130.m3u8
-#EXTINF:-1,Central TV PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/21134.m3u8
+#EXTINF:-1,Frecuencia Latina HD PER
+http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/35478.m3u8
+#EXTINF:-1,Latina Opc. 1 PER
+http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69145.m3u8
+#EXTINF:-1,Latina Opc. 2 PER
+http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69144.m3u8
+#EXTINF:-1,Latina Opc. 3 PER
+http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69143.m3u8
+#EXTINF:-1,Latina Opc. sin live
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/69145
 #EXTINF:-1,Panamericana HD PER
 http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/21131.m3u8
 #EXTINF:-1,Pe America TV HD PER
 http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/21128.m3u8
-#EXTINF:-1,BHtv HD PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/21132.m3u8
-#EXTINF:-1,Plus TV PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/21133.m3u8
-#EXTINF:-1,TV Noticias 7.3 PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/21126.m3u8
-#EXTINF:-1,TV Peru HD PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/21123.m3u8
-#EXTINF:-1,Ovacion PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/21120.m3u8
-#EXTINF:-1,Willax HD PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/35479.m3u8
-#EXTINF:-1,Frecuencia Latina HD PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/35478.m3u8
-#EXTINF:-1,Movistar Deportes PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/35477.m3u8
-#EXTINF:-1,Movistar Plus PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/35476.m3u8
-#EXTINF:-1,Global SD PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69160.m3u8
-#EXTINF:-1,Atv Plus PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69159.m3u8
+#EXTINF:-1,Canal N HD PER
+http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/35480.m3u8
 #EXTINF:-1,Canal N HD PER
 http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69158.m3u8
 #EXTINF:-1,Canal N SD PER
 http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69157.m3u8
-#EXTINF:-1,Capital Tv PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69156.m3u8
+#EXTINF:-1,Plus TV PER
+http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/21133.m3u8
+#EXTINF:-1,Willax HD PER
+http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/35479.m3u8
+#EXTINF:-1,Peru Magico PER
+http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69142.m3u8
+#EXTINF:-1,RPP HD PER
+http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69141.m3u8
+
+#EXTINF:-1,ATV HD PER
+http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/35481.m3u8
+#EXTINF:-1,Atv Plus PER
+http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV " tvg-logo="https://cdn.mitvstatic.com/channels/pe_gol-tv_m.png" group-title="Deporte",Gol TV
+http://iptvworld.nl:2095/live/live/aQgdkEq2Yu/deszsryVjZ/21135.m3u8
+#EXTINF:-1,Gol TV FHD PER
+http://iptvworld.nl:2095/live/live/aQgdkEq2Yu/deszsryVjZ/21135.m3u8
+#EXTINF:-1,Movistar Deportes PER
+http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/35477.m3u8
+#EXTINF:-1,Movistar Plus PER
+http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/35476.m3u8
 #EXTINF:-1,Espn PER
 http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69155.m3u8
 #EXTINF:-1,Espn 3 PER
 http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69154.m3u8
-#EXTINF:-1,Exitosa HD PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69153.m3u8
 #EXTINF:-1,Fox Sports 3 PER
 http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69151.m3u8
 #EXTINF:-1,Fox Sports Peru HD PER
@@ -74,19 +55,6 @@ http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69148.m3u8
 http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69147.m3u8
 #EXTINF:-1,Golperu Opc 4 PER
 http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69146.m3u8
-#EXTINF:-1,Latina Opc. 1 PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69145.m3u8
-#EXTINF:-1,Latina Opc. 2 PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69144.m3u8
-#EXTINF:-1,Latina Opc. 3 PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69143.m3u8
-#EXTINF:-1,Peru Magico PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69142.m3u8
-#EXTINF:-1,RPP HD PER
-http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/69141.m3u8
-#EXTINF:-1,Latina Opc. 1 PER
-http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/69145
-
 #EXTINF:-1,Directv Sports 1 EC
 http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/72240.m3u8
 #EXTINF:-1,Directv Sports 2 EC

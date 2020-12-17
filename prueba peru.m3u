@@ -61,3 +61,8 @@ http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/72240.m3u8
 http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/72239.m3u8
 #EXTINF:-1,Directv Sports Plus EC
 http://iptvworld.nl:2095/live/aQgdkEq2Yu/deszsryVjZ/72238.m3u8
+
+#EXTINF:-1 group-title="FILMES - INFANTIL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg",Dragões: Pilotos de Resgate: O segredo da Asa
+http://cdn.ontvhdbr.co:80/movie/alex01/alex01/111122.mp4
+#EXTINF:-1 group-title="(DES)ENCANTO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BEM13YVtGaqTZOAVevRzwlVAmY.jpg",(DES)ENCANTO S01 (DES)ENCANTO - S01E03 - A princesa da escuridão
+http://cdn.ontvhdbr.co:80/series/alex01/alex01/94553.mp4
